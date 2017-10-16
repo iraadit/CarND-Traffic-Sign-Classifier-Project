@@ -4,3 +4,11 @@ data
 models
 *.swp
 *.p
+
+back/
+
+\.DS_Store
+
+Confusion_matrix\.csv
+
+Personnal/
